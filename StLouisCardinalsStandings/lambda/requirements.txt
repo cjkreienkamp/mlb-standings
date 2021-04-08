@@ -1,0 +1,4 @@
+boto3==1.9.216
+ask-sdk-core==1.11.0
+urllib3==1.25.9
+beautifulsoup4==4.9.0
